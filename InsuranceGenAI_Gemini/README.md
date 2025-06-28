@@ -10,7 +10,7 @@ A simple Generative AI agent for providing insurance support and product recomme
 
 ## 🛠️ Tech Stack
 - Python
-- Google Gemini Pro
+- Google Gemini 
 - Streamlit
 
 ## 🚀 Setup & Run Locally
