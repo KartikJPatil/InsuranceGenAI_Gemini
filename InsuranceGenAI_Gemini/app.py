@@ -7,7 +7,7 @@ import os
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
 # Initialize Gemini model
-model = genai.GenerativeModel("gemini-pro")
+model = genai.GenerativeModel("gemini-1.5-flash")
 
 # Streamlit UI
 st.set_page_config(page_title="Insurance Support GenAI Agent (Gemini)")
